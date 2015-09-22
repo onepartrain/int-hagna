@@ -1,3 +1,3 @@
 a = raw_input('First number: ')
 b = raw_input('Second number: ')
-print a + b
+print int(a) + int(b)
